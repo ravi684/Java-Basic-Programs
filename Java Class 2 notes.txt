@@ -3,4 +3,5 @@ case 1:
 for a c program to be a successfully run the os and microprocessor during the compilation and execution must remain same.
 If in case if any one of the information changes the c program cannot provide the output.
 
-case 2:
+case 3:
+ C programs are platform dependent
